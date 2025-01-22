@@ -1,0 +1,1 @@
+{"_invocation_id": "e57b80f8-7487-4841-ba45-341df361c51a", "linked": {"0": {"name": "source.dbt_quest.jaffle_shop.raw_customers", "type": "source", "succ": [2]}, "1": {"name": "source.dbt_quest.jaffle_shop.raw_orders", "type": "source", "succ": [3]}, "2": {"name": "model.dbt_quest.stg_customers", "type": "model"}, "3": {"name": "model.dbt_quest.stg_orders", "type": "model"}}}
